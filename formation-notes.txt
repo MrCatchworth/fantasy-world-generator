@@ -1,0 +1,19 @@
+new settlement:
+- water
+- safety
+- access to markets
+
+forest growth:
+http://www.michigan.gov/dnr/0,4570,7-153-10370_22664-61596--,00.html#Growth
+describes distribution of tree species, especially by soil type
+
+soil formation:
+http://www.isric.org/about-soils/world-soil-distribution
+describes how temperature and rainfall contribute to soil formation
+
+http://www.virtualworldlets.net/Resources/Menu.php?Category=51
+several pages describing biome formation in a straightforward way (look for natural formations section)
+
+grassland formation:
+http://naturesblog.blogspot.co.uk/2009/09/grassland-formation.html
+best point: describes how grasslands can grow to replace woodland

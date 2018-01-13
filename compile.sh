@@ -1,0 +1,1 @@
+mcs -reference:sfmlnet-audio-2.dll,sfmlnet-graphics-2.dll,sfmlnet-window-2.dll,sfmlnet-system-2.dll -platform:X86 -out:out.exe*.cs
